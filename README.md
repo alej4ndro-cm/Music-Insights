@@ -39,16 +39,10 @@ This project involves collecting and analyzing data from both Spotify and Genius
 Here are some visualizations of the project results:
 
 ### Word Cloud for Pop Genre
-![Word Cloud for Rock Genre](results/most_popular_artists_rock.png)
+![Word Cloud for Most Used words in Rock Genre](results/most_used_words_in_rock_(A).png)
 
 ### Bar Chart for Top 20 Words in Hip-Hop Lyrics
-![Bar Chart for Top 20 Words in Hip-Hop Lyrics](results/hiphop_genre_bar_chart.png)
-
-<!-- Add more visualizations here -->
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+![Word Cloud for Most Popular Hip-Hop artists](results/most_popular_artists_hiphop.png)
 
 ## Acknowledgments
 
@@ -56,6 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- Your Name
-
-Feel free to customize this `README.md` to provide specific details about your project, such as installation instructions, data sources, or any additional acknowledgments or references.
+- Alejandro Munoz
