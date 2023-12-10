@@ -10,8 +10,12 @@ This project involves collecting and analyzing data from both Spotify and Genius
 
 4. `results_genius.py`: Analyzes and visualizes lyrics data, generating word clouds and bar charts to represent the most frequent words in lyrics for different music genres.
 
-## Project Structure`data/`Spotify`/`: Directory to store CSV files containing Spotify data.
-- `data/genius/`: Directory to store CSV files containing combined Spotify and Genius data.
+## Project Structure
+
+- `data/`: Directory to store CSV files containing Spotify data.
+  - `spotify/`: Stores CSV files containing Spotify data for different music genres.
+  - `genius/`: Stores CSV files containing combined Spotify and Genius data with lyrics.
+- `results/`: Directory to store images of the project results.
 
 ## Prerequisites
 
@@ -30,10 +34,28 @@ This project involves collecting and analyzing data from both Spotify and Genius
    - `genius_lyrics_data_collection.py`
    - `results_genius.py`
 
+## Results
+
+Here are some visualizations of the project results:
+
+### Word Cloud for Pop Genre
+![Word Cloud for Pop Genre](results/pop_genre_wordcloud.png)
+
+### Bar Chart for Top 20 Words in Hip-Hop Lyrics
+![Bar Chart for Top 20 Words in Hip-Hop Lyrics](results/hiphop_genre_bar_chart.png)
+
+<!-- Add more visualizations here -->
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Acknowledgments
 
 - The Spotify API and Genius API for providing access to music data.
 
 ## Author
 
-- Alejandro Munoz
+- Your Name
+
+Feel free to customize this `README.md` to provide specific details about your project, such as installation instructions, data sources, or any additional acknowledgments or references.
