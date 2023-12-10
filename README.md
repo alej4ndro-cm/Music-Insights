@@ -38,10 +38,10 @@ This project involves collecting and analyzing data from both Spotify and Genius
 
 Here are some visualizations of the project results:
 
-### Word Cloud for Pop Genre
+### Word Cloud for Most Used words in Rock Genre
 ![Word Cloud for Most Used words in Rock Genre](results/most_used_words_in_rock_(A).png)
 
-### Bar Chart for Top 20 Words in Hip-Hop Lyrics
+### Word Cloud for Most Popular Hip-Hop artists
 ![Word Cloud for Most Popular Hip-Hop artists](results/most_popular_artists_hiphop.png)
 
 ## Acknowledgments
